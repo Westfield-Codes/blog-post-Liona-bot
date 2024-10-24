@@ -25,3 +25,11 @@ html {
 .reply {
     padding-left:50px;
 }
+
+body{
+  background-color:#fceb55;
+}
+
+.container{
+  background-color:white;
+}
