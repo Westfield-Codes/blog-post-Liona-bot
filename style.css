@@ -32,4 +32,15 @@ body{
 
 .container{
   background-color:white;
+  padding:50px;
+}
+
+.face {
+  float:left; padding: 10px;
+}
+
+
+table, tr, td, th {
+  border:1px solid black;
+  padding:10px;
 }
